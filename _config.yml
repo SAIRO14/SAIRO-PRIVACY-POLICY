@@ -1,0 +1,9 @@
+title: Sairo 개인정보 처리방침
+description: Sairo 서비스 개인정보 처리방침
+lang: ko-KR
+markdown: kramdown
+kramdown:
+  input: GFM
+exclude:
+  - README.md
+  - CHANGELOG.md
